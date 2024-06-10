@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Döviz ve Haberler</string>
+    <string name="internetException">Bir hata oluştu! Lütfen internet bağlantınızı kontrol edin!</string>
+    <string name="exception">Tekrar Deneyin</string>
+    <string name="home_bottommenu">Anasayfa</string>
+    <string name="settings_darkMode">Karanlık Mod</string>
+    <string name="settings_trEn">Türkçe-İngilizce</string>
+    <string name="currency_buy">Al</string>
+    <string name="currency_sell">Sat</string>
+    <string name="currency_exchange">Değişim Oranı</string>
+    <string name="graph_7days">7 Günlük</string>
+    <string name="graph_3months">3 Aylık</string>
+    <string name="graph_6months">6 Aylık</string>
+    <string name="graph_1year">1 Yıllık</string>
+    <string name="chart_NoData">Grafik verisi mevcut değildir.</string>
+    <string name="chart_Buying">Alış Fiyatı</string>
+    <string name="chart_Description">Döviz Alış Fiyatları</string>
+    <string name="sterlin_bottommenu">Sterlin</string>
+    <string name="usd_bottommenu">Dolar</string>
+    <string name="euro_bottommenu">Euro</string>
+    <string name="settings_bottommenu">Ayarlar</string>
+    <string name="settings_favorites">Favoriler</string>
+</resources>

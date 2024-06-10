@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Exchange and News</string>
+    <string name="internetException">An error occurred! Please check your internet connection!</string>
+    <string name="exception">Retry</string>
+    <string name="home_bottommenu">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="settings_darkMode">Dark Mode</string>
+    <string name="settings_trEn">Turkish-English</string>
+    <string name="currency_buy">Buy</string>
+    <string name="currency_sell">Sell</string>
+    <string name="currency_exchange">Exchange Rate</string>
+    <string name="graph_7days">7 Days</string>
+    <string name="graph_3months">3 Months</string>
+    <string name="graph_6months">6 Months</string>
+    <string name="graph_1year">1 Year</string>
+    <string name="chart_NoData">No chart data available.</string>
+    <string name="chart_Buying">Buying Price</string>
+    <string name="chart_Description">Currency Buying Prices</string>
+    <string name="sterlin_bottommenu">Gbp</string>
+    <string name="usd_bottommenu">Usd</string>
+    <string name="euro_bottommenu">Eur</string>
+    <string name="settings_bottommenu">Settings</string>
+    <string name="settings_favorites">Favorites</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

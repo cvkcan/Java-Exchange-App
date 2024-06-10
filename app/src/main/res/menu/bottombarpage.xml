@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pageOne"
+        android:icon="@drawable/baseline_looks_one_24"
+        android:title=""
+        ></item>
+
+    <item
+        android:id="@+id/pageTwo"
+        android:icon="@drawable/baseline_looks_two_24"
+        android:title=""
+        ></item>
+
+    <item
+        android:id="@+id/pageThree"
+        android:icon="@drawable/baseline_looks_3_24"
+        android:title=""
+        ></item>
+    <item
+        android:id="@+id/pageFour"
+        android:icon="@drawable/baseline_looks_4_24"
+        android:title=""
+        ></item>
+
+    <item
+        android:id="@+id/pageFive"
+        android:icon="@drawable/baseline_looks_5_24"
+        android:title=""
+        ></item>
+
+
+
+</menu>
